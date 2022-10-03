@@ -4,6 +4,7 @@ module.exports = {
 
     theme: '@vuepress/theme-blog',
     themeConfig: {
+        searchPlaceholder: 'Rechercher',
         dateFormat: 'DD/MM/YYYY',
         nav: [
             {
@@ -24,6 +25,10 @@ module.exports = {
                 {
                     type: 'linkedin',
                     link: 'https://www.linkedin.com/in/clement-trempe/',
+                },
+                {
+                    type: 'music',
+                    link: 'https://open.spotify.com/user/2sa7m4pv6prjdo1dz0lsplioj?si=b77628d724cf498d',
                 }
             ]
         }
