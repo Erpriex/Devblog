@@ -4,7 +4,7 @@ module.exports = {
 
     theme: '@vuepress/theme-blog',
     themeConfig: {
-        dateFormat: 'DD-MM-YYYY',
+        dateFormat: 'DD/MM/YYYY',
         nav: [
             {
                 text: 'CheatSheet',
@@ -21,6 +21,10 @@ module.exports = {
                     type: 'github',
                     link: 'https://github.com/Erpriex',
                 },
+                {
+                    type: 'linkedin',
+                    link: 'https://www.linkedin.com/in/clement-trempe/',
+                }
             ]
         }
     }
