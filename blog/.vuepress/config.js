@@ -30,6 +30,11 @@ module.exports = {
                     type: 'music',
                     link: 'https://open.spotify.com/user/2sa7m4pv6prjdo1dz0lsplioj?si=b77628d724cf498d',
                 }
+            ],
+            copyright: [
+                {
+                    text: 'Clément Trempé',
+                }
             ]
         }
     }
