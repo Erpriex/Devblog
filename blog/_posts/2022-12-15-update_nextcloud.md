@@ -21,7 +21,7 @@ tar -xf latest.tar.bz2
 
 <br>
 
-Et on copie les nouveaux fichiers vers notre serveur Nextcloud
+Et copiez les nouveaux fichiers vers notre serveur Nextcloud
 ```sh
 rsync -a nextcloud/ /chemin/vers/votre/nextcloud/
 ```
